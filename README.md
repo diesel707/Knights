@@ -1,1 +1,1 @@
-# Knights
+# Run the puzzle.py file
