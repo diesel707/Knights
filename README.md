@@ -1,1 +1,1 @@
-# Run the puzzle.py file
+# Run the play.py file
