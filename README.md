@@ -1,1 +1,1 @@
-# Run the puzzle.py file
+# Download all the libraries from the requirement.txt file
